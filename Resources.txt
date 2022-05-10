@@ -1,0 +1,20 @@
+Dataset:
+https://www.guitarist.com/classical-guitar/midi/
+https://magenta.tensorflow.org/datasets/maestro#v300
+http://www.irishmidifiles.ie/midifiles.htm
+http://metal-midi.grahamdowney.com/midi.html
+https://www.classicalguitarmidi.com/index.html
+https://www.classicalarchives.com/midi.html
+
+Resources Used:
+http://web.mit.edu/music21/doc/index.html
+https://themathbehindyou.wordpress.com/2019/01/22/using-cudnn-in-keras/
+https://towardsdatascience.com/how-to-generate-music-using-a-lstm-neural-network-in-keras-68786834d4c5
+https://keras.io/api/layers/recurrent_layers/
+https://gist.github.com/cpmpercussion/1505b74b573d106df6b820b960951567
+https://github.com/bearpelican/musicautobot/blob/master/musicautobot/numpy_encode.py
+https://cs224d.stanford.edu/reports/allenh.pdf
+https://arxiv.org/pdf/1612.04742.pdf
+https://paperswithcode.com/paper/enabling-factorized-piano-music-modeling-and
+https://arxiv.org/pdf/1810.12247v5.pdf
+https://openai.com/blog/musenet/
